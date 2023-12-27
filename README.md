@@ -3,7 +3,7 @@ Linux InitRAMFS from Scratch
 
 Linux Initramfs From Scratch (LIFS) is a project that provides step-by-step instructions for building a customized Linux initramfs image entirely from source.
 
-<i>Originally developed for [CMLFS](https://github.com/dslm4515/CMLFS)  and [MLFS](ttps://github.com/dslm4515/Musl-LFS) that use my [S6+S6-rc bootscripts](ttps://github.com/dslm4515/MLFS-S6-Bootscripts).</i>
+<i>Originally developed for [CMLFS](https://github.com/dslm4515/CMLFS)  and [MLFS](https://github.com/dslm4515/Musl-LFS) that use my [S6+S6-rc bootscripts](https://github.com/dslm4515/MLFS-S6-Bootscripts).</i>
 
 ## Goals
 <ul>
